@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="90" started-at="2020-03-23T10:34:41Z" finished-at="2020-03-23T10:34:41Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="90" started-at="2020-03-23T10:34:41Z" finished-at="2020-03-23T10:34:41Z">
+      <class name="Qaclickacademy.mavenJava.AppiumTest">
+        <test-method status="PASS" signature="mobile()[pri:0, instance:Qaclickacademy.mavenJava.AppiumTest@668bc3d5]" name="mobile" duration-ms="22" started-at="2020-03-23T10:34:41Z" finished-at="2020-03-23T10:34:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobile -->
+        <test-method status="PASS" signature="mobiletest()[pri:0, instance:Qaclickacademy.mavenJava.AppiumTest@668bc3d5]" name="mobiletest" duration-ms="1" started-at="2020-03-23T10:34:41Z" finished-at="2020-03-23T10:34:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobiletest -->
+      </class> <!-- Qaclickacademy.mavenJava.AppiumTest -->
+      <class name="Qaclickacademy.mavenJava.SomaTest">
+        <test-method status="PASS" signature="rupom()[pri:0, instance:Qaclickacademy.mavenJava.SomaTest@3cda1055]" name="rupom" duration-ms="1" started-at="2020-03-23T10:34:41Z" finished-at="2020-03-23T10:34:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rupom -->
+        <test-method status="PASS" signature="rupomroy()[pri:0, instance:Qaclickacademy.mavenJava.SomaTest@3cda1055]" name="rupomroy" duration-ms="0" started-at="2020-03-23T10:34:41Z" finished-at="2020-03-23T10:34:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rupomroy -->
+      </class> <!-- Qaclickacademy.mavenJava.SomaTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

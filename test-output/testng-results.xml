@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11238" started-at="2020-08-09T17:27:22Z" finished-at="2020-08-09T17:27:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11238" started-at="2020-08-09T17:27:22Z" finished-at="2020-08-09T17:27:34Z">
+      <class name="Qaclickacademy.mavenJava.ExtentReport">
+        <test-method status="PASS" signature="config()[pri:0, instance:Qaclickacademy.mavenJava.ExtentReport@548e7350]" name="config" is-config="true" duration-ms="576" started-at="2020-08-09T17:27:22Z" finished-at="2020-08-09T17:27:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="initialDemo()[pri:0, instance:Qaclickacademy.mavenJava.ExtentReport@548e7350]" name="initialDemo" duration-ms="10599" started-at="2020-08-09T17:27:23Z" finished-at="2020-08-09T17:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialDemo -->
+      </class> <!-- Qaclickacademy.mavenJava.ExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
